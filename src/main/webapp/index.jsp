@@ -1,9 +1,9 @@
 <html>
 <head>
-<title>Wellcom to ibexlab</title>
+<title>Wellcome to banaglore</title>
 </head>
 <body>
-	<h1>Wellcom to ibexlab</h1>
+	<h1>Wellcome to banaglore</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
